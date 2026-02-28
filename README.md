@@ -10,7 +10,7 @@ Este projeto implementa um sistema robusto e interativo de gerenciamento de bibl
 
 <img width="388" height="342" alt="Menu Principal" src="https://github.com/user-attachments/assets/9383a0ed-2e9f-45a0-b1eb-c2f5ae185ab1" />
 
-<img width="587" height="448" alt="Tela de Cadastro" src="https://github.com/user-attachments/assets/cc1a224c-9b78-46d1-83f1-a3b5757183c1" />
+<img width="388" height="448" alt="Tela de Cadastro" src="https://github.com/user-attachments/assets/cc1a224c-9b78-46d1-83f1-a3b5757183c1" />
 
 
 ## 🚀 Funcionalidades
